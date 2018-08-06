@@ -1,0 +1,602 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+<meta http-equiv="Pragma" content="no-cache" />
+<meta http-equiv="Expires" content="0" />
+
+<title>经开区合署办公套餐式服务工作流程</title>
+<link rel="stylesheet" href="css/bootstrap.css">
+<link rel="stylesheet" href="css/styles.css">
+<link rel="stylesheet" href="css/style_2.css" media="screen" type="text/css" />
+
+</head>
+	
+<body>
+	<header>
+		
+		<div class="row">
+			<div class="col"><br><a href="main.html"><img src="images/title_main.gif" class="style-logo" /></a>
+				<br>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col">
+				<p class="main_intro">
+					经开区工商、税务推行<br>新办纳税人“套餐式”服务工作流程
+				</p>
+			</div>
+		</div>
+	</header>
+	<main>
+		<!--div class="row">
+			<div class="col">
+				<div class="info-box-tan">
+					<h1>&nbsp;&nbsp;&nbsp;&nbsp;经开区工商、地税、国税推行新办纳税人“套餐式”服务工作流程</h1>
+				</div>
+			</div>
+		</div-->
+		<div class="row">
+			<div class="div_center main_intro"><img src="images/commerce_logo.gif" alt="" width="50%"></div>
+			<div class="main_intro">第一步：提供资料，五个工作日取证</div>
+		</div>
+		<!--开始工商 -->
+		<div class="row">
+		<div class="col">
+			<ul id="accordion" class="accordion">
+				<li class="subTitle">工商事项清单</li>
+				<br>
+				<!-- 工商1-->
+				<li>
+					<div class="link">一、全程电子化注册登记提醒<i class="fa fa-chevron-down"></i></div>
+					<ul class="submenu">
+						<div>
+							(一)办理对象：<br>
+							<div class="panel">
+								限于企业注册地址在贵阳市范围内，不需办理前置审批事项的全自然人出资的内资公司、个人独资企业或内资合伙企业
+							</div>
+
+							(二)具体办理流程：<br>
+							<div class="panel">
+								第一步：个人数字证书申领<br>
+								申请人到推行企业注册全程电子化系统的银行网点免费申请UK认证，取得个人数字证书。<br>
+								第二步：用户注册<br>
+								经办人登录“贵阳市企业注册全程电子化系统”，按照网页提示填写经办人基本信息，完成用户注册。<br>
+								第三步：填写申请信息并下载电子申请表<br>
+								经办人进入全程电子化系统，在电子申请表上按规范格式填写申请信息，点击【暂存】后，再点击【下载】电子申请表。<br>
+								第四步：电子签名和提交申请<br>
+								在核对电子申请表的信息内容无误后，经办人、法定代表人、股东及董事成员等相关签字人均需要求使用数字证书进行电子签名。<br>
+								第五步：网上审核并发放纸质营业执照<br>
+								经办人在5个工作日内查看办理结果。工商登记机关准予登记的，经办人持相关证件前往指定登记机关办照大厅窗口申请领取纸质营业执照。<br>
+							</div>
+							(三)数字证书申领地点：<br>
+							<div class="panel">
+								申请人携带本人居民身份证，前往推行企业注册登记全程电子化的工商银行、建设银行、贵阳银行等银行网点申领新的个人数字证书，并留存影像资料及个人签名。
+依据相关规定需要在申报材料上进行签名的经办人、股东、经营者、投资者、合伙人、董事、法定代表人、负责人等相关签字人均需使用数字证书进行电子签名。
+如有其它疑问可登录“贵阳市企业注册全程电子化系统”查询，或拨打贵阳银行：4001196033、工商银行：95588、建设银行：95533咨询。
+
+							</div>
+							
+						</div>
+
+						
+						
+					</ul>
+				</li>
+				<!-- 结束工商1-->
+
+				<!-- 工商2-->
+				<li>
+					<div class="link">二、有限责任公司设立登记提交材料规范<i class="fa fa-chevron-down"></i></div>
+					<ul class="submenu">
+						<div>
+						1.《公司登记（备案）申请书》。[<a href="http://www.gzegn.gov.cn/servlet/downloadFileServlet?fileNo=52000020151022093100002790">范本下载</a>] [<a href="http://www.gzegn.gov.cn/servlet/downloadFileServlet?fileNo=52000020151022091711002732">空表下载</a>]<br>
+						2.《指定代表或者共同委托代理人授权委托书》及指定代表或委托代理人的身份证件复印件。[<a href="http://www.gzegn.gov.cn/servlet/downloadFileServlet?fileNo=52000020150707105934004235">范本下载</a>] [<a href="http://www.gzegn.gov.cn/servlet/downloadFileServlet?fileNo=52000020150707105946004236">空表下载</a>]<br>
+						3. 全体股东签署的公司章程。<br>
+						4. 股东的主体资格证明或者自然人身份证件复印件。<br>
+					   		<div>
+					   	   （1）股东为企业的，提交营业执照复印件。<br>
+						   （2）股东为事业法人的，提交事业法人登记证书复印件。<br>
+						   （3）股东为社团法人的，提交社团法人登记证复印件。<br>
+						   （4）股东为民办非企业单位的，提交民办非企业单位证书复印件。<br>
+						   （5）股东为自然人的，提交身份证件复印件。<br>
+						   （6）其他股东提交有关法律法规规定的资格证明。<br>
+					   		</div>
+
+						5. 董事、监事和经理的任职文件（股东会决议由股东签署，董事会决议由公司董事签字）及身份证件复印件。<br>
+						6. 法定代表人任职文件（股东会决议由股东签署，董事会决议由公司董事签字）及身份证件复印件。<br>
+						7. 住所使用证明。<br>
+						8.《企业名称预先核准通知书》。[<a href="http://www.gzegn.gov.cn/servlet/downloadFileServlet?fileNo=52000020150708141838005167">范本下载</a>]<br>
+						9. 法律、行政法规和国务院决定规定设立有限责任公司必须报经批准的，提交有关的批准文件或者许可证件复印件。<br>
+						10、公司申请登记的经营范围中有法律、行政法规和国务院决定规定必须在登记前报经批准的项目，提交有关批准文件或者许可证件的复印件。<br>
+						   注：<br> 
+						   <div  class="panel">
+						   	（1）依照《公司法》、《公司登记管理条例》设立的有限责任公司适用本规范。一人有限责任公司和国有独资公司参照本规范提供有关材料。<br>
+						   </div>
+						
+						</div>
+					</ul>
+				</li>
+				<!-- 结束工商2-->
+				<!-- 工商3-->
+				<li>
+					<div class="link">三、股份有限公司设立登记提交材料规范<i class="fa fa-chevron-down"></i></div>
+					<ul class="submenu">
+						 <div>
+						1.《公司登记（备案）申请书》。[<a href="http://www.gzegn.gov.cn/servlet/downloadFileServlet?fileNo=52000020160712125714013697">范本下载</a>][<a href="http://www.gzegn.gov.cn/servlet/downloadFileServlet?fileNo=52000020160712125856013700">空表下载</a>]<br>
+						2.《指定代表或者共同委托代理人授权委托书》及指定代表或委托代理人的身份证件复印件。[<a href="http://www.gzegn.gov.cn/servlet/downloadFileServlet?fileNo=52000020160712130222013717">范本下载</a>][<a href="http://www.gzegn.gov.cn/servlet/downloadFileServlet?fileNo=52000020160712130257013721">空表下载</a>]<br>
+						3. 由会议主持人和出席会议的董事签署的股东大会会议纪录（募集设立的提交创立大会的会议记录）。<br>
+						4. 全体发起人签署或者出席股东大会或创立大会的董事签字的公司章程。<br>
+						5. 发起人的主体资格证明或者自然人身份证件复印件。<br>
+						<div  class="panel">
+						（1）发起人为企业的，提交营业执照复印件。<br>
+						（2）发起人为事业法人的，提交事业法人登记证书复印件。<br>
+						   （3）发起人股东为社团法人的，提交社团法人登记证复印件。<br>
+						   （4）发起人为民办非企业单位的，提交民办非企业单位证书复印件。<br>
+						   （5）发起人为自然人的，提交身份证件复印件。<br>
+						   （6）其他发起人提交有关法律法规规定的资格证明。<br>
+						</div>
+
+						6. 募集设立的股份有限公司提交依法设立的验资机构出具的验资证明。涉及发起人首次出资是非货币财产的，提交已办理财产权转移手续的证明文件。<br>
+						7. 董事、监事和经理的任职文件及身份证件复印件。<br>
+					   	<div class="panel">
+					   		（1）依据《公司法》和公司章程的规定，提交由会议主持人和出席会议的董事签署的股东大会会议记录（募集设立的提交创立大会的会议记录）、董事会决议或其他相关材料。其中股东大会会议记录（创立大会会议记录）可以与第3项合并提交；董事会决议由公司董事签字。<br>
+					   	</div>
+						   
+						8. 法定代表人任职文件（公司董事签字的董事会决议）及身份证件复印件。<br>
+						9. 住所使用证明。<br>
+						10.《企业名称预先核准通知书》。[<a href="http://www.gzegn.gov.cn/servlet/downloadFileServlet?fileNo=52000020160721143332004840">范本下载</a>]<br>
+						11. 募集设立的股份有限公司公开发行股票的应提交国务院证券监督管理机构的核准文件。<br>
+						12.	法律、行政法规和国务院决定规定设立股份有限公司必须报经批准的，提交有关的批准文件或者许可证件复印件。<br>
+						13. 公司申请登记的经营范围中有法律、行政法规和国务院决定规定必须在登记前报经批准的项目，提交有关批准文件或者许可证件的复印件。<br>
+						注：<br> 
+						<div  class="panel">
+							（1）依照《公司法》、《公司登记管理条例》设立的股份有限公司申请设立登记适用本规范。<br>
+						</div>
+						
+						 </div>
+					</ul>
+				</li>
+				<!-- 结束工商3-->
+				<!-- 工商4-->
+				<li>
+					<div class="link">四、分公司设立登记提交材料规范<i class="fa fa-chevron-down"></i></div>
+					<ul class="submenu">
+						 <div>
+						1.《分公司登记申请书》。[<a href="http://www.gzegn.gov.cn/servlet/downloadFileServlet?fileNo=52000020160909135141002085">范本下载</a>][<a href="http://www.gzegn.gov.cn/servlet/downloadFileServlet?fileNo=52000020160803135608013266">空表下载</a>]<br>
+						2.《指定代表或者共同委托代理人授权委托书》及指定代表或委托代理人的身份证件复印件。[<a href="http://www.gzegn.gov.cn/servlet/downloadFileServlet?fileNo=52000020160721163712006636">范本下载</a>][<a href="http://www.gzegn.gov.cn/servlet/downloadFileServlet?fileNo=52000020160721163725006638">空表下载</a>]<br>
+						3. 公司章程复印件（加盖公司公章）。<br>
+						4. 公司营业执照复印件。<br>
+						5. 分公司营业场所使用证明。<br>
+						6. 分公司负责人的任职文件及身份证件复印件。<br>
+						7. 分公司申请登记的经营范围中有法律、行政法规和国务院决定规定必须在登记前报经批准的项目，提交有关批准文件或者许可证件的复印件；分公司的经营范围不得超出公司的经营范围。<br>
+						8. 法律、行政法规和国务院决定规定设立分公司必须报经批准的，提交有关的批准文件或者许可证件复印件。<br>
+							注： <br> 
+							<div>
+						（1）依照《公司法》、《公司登记管理条例》设立的分公司申请设立登记适用本规范。<br>
+						（2）分公司经公司登记机关准予设立登记后，公司应当在30日内持分公司营业执照复印件向公司登记机关申请办理该分公司的备案手续。<br>	
+							 </div>
+
+						 </div>
+					</ul>
+				</li>
+				<!-- 工商4-->
+				<!-- 工商5-->
+				<li>
+					<div class="link">五、因公司合并申请设立、变更或注销登记提交材料规范<i class="fa fa-chevron-down"></i></div>
+					<ul class="submenu">
+						 <div>
+						因合并申请设立、变更或注销登记的公司,除按照本规范提交设立、变更或注销登记材料外，还应当提交以下材料：<br>
+						1. 合并各方签署的合并协议。合并协议应当包括：合并协议各方的名称，合并形式，合并后公司的名称，合并后公司的注册资本，合并协议各方债权、债务的承继方案，解散公司分公司、持有其他公司股权的处置情况，签约日期、地点以及合并协议各方认为需要规定的其他事项。<br>
+						2. 依法刊登公告的报纸样张。合并公告应当包括：合并各方的名称，合并形式，合并前后各公司的注册资本。<br>
+						3. 合并各方公司关于通过合并协议的决议或决定。<br>
+						<div>
+							（1）有限责任公司提交由代表三分之二以上表决权的股东签署的股东会决议。<br>
+							（2）股份有限公司提交由会议主持人及出席会议的董事签署的股东大会会议决议。<br>
+							（3）一人有限责任公司提交股东签署的书面决定。<br>
+							（4）国有独资公司提交国务院、地方人民政府或者其授权的本级人民政府国有资产监督管理机构的批准文件。<br>
+						</div>
+
+						4. 合并各方的营业执照复印件。<br>
+						5. 债务清偿或者债务担保情况的说明。<br>
+						6. 法律、行政法规和国务院决定规定必须报经批准的，提交有关的批准文件或者许可证件复印件。<br>
+						7. 因合并办理公司设立、变更登记的，提交载明合并情况的解散公司的注销证明。<br>
+						注：<br>
+						<div>
+							（1）因合并而解散的公司不进行清算的，注销登记可以不提交清算报告，但是合并协议中载明解散公司需先行办理清算的除外。<br>
+							（2）因合并新设公司的经营范围或存续公司新增的经营范围中，涉及法律法规规定应当在登记前报经有关部门审批的，应当在登记前报有关部门审批，凭有关部门的许可文件、证件办理登记。<br>
+							（3）因合并申请设立登记、变更登记、注销登记，应当自合并公告之日起45日后。<br>
+						</div>
+
+						 </div>
+					</ul>
+				</li>
+				<!-- 结束工商5-->
+				<!-- 工商6-->
+				<li>
+					<div class="link">六、因公司分立申请设立、变更或注销登记提交材料规范<i class="fa fa-chevron-down"></i></div>
+					<ul class="submenu">
+						 <div>
+因分立申请设立、变更或注销登记的公司,除按照本规范提交设立、变更或注销登记材料，还应当提交以下材料：<br>
+1. 公司分立的决议或决定。分立决议或决定应当包括：分立形式，分立前后公司的名称，分立后公司的注册资本，分立后原公司债权、债务的承继方案，公司分公司、持有其他公司股权的处置情况。<br>
+<div>
+   （1）有限责任公司提交由代表三分之二以上表决权的股东签署的股东会决议。<br>
+   （2）股份有限公司提交由会议主持人及出席会议的董事签署的股东大会会议记录。<br>
+   （3）一人有限责任公司提交股东签署的书面决定。<br>
+   （4）国有独资公司提交国务院、地方人民政府或者其授权的本级人民政府国有资产监督管理机构的批准文件。<br>
+</div>
+
+2. 依法刊登公告的报纸样张。分立公告应当包括：分立各方的名称，分立形式，分立前后各公司的注册资本。<br>
+3. 分立各方的营业执照复印件。<br>
+4. 债务清偿或者债务担保情况的说明。<br>
+5. 法律、行政法规和国务院决定规定必须报经批准的 ，提交有关的批准文件或者许可证件复印件。<br>
+6. 因分立申请公司设立登记的，提交载明分立情况的存续公司的变更证明或解散公司的注销证明。<br>
+注：<br>
+<div>
+	（1）因分立而解散的公司不进行清算的，注销登记可以不提交清算报告，但是分立决议或决定中载明解散公司需先行办理清算的除外。<br>
+	（2）因分立新设公司的经营范围中，涉及法律法规规定应当在登记前报经有关部门审批的，应当在登记前报有关部门审批，凭有关部门的许可文件、证件办理登记。<br>
+	（3）因分立申请设立登记、变更登记、注销登记，应当自分立公告之日起 45日后。<br>
+</div>
+
+						 </div>
+					</ul>
+				</li>
+				<!-- 结束工商6-->
+				<!-- 工商7-->
+				<li>
+					<div class="link">七、合伙企业设立登记提交材料规范<i class="fa fa-chevron-down"></i></div>
+					<ul class="submenu">
+						 <div>
+1.《合伙企业登记（备案）申请书》。[<a href="http://www.gzegn.gov.cn/servlet/downloadFileServlet?fileNo=52000020170629125546002577">范本下载</a>][<a href="http://www.gzegn.gov.cn/servlet/downloadFileServlet?fileNo=52000020170629125610002580">空表下载</a>]<br>
+2. 全体合伙人的主体资格证明（居民身份证复印件、营业执照副本复印件、事业法人登记证书复印件、社团法人登记证复印件、民办非企业单位证书复印件）。<br>
+3. 全体合伙人指定的代表或者共同委托的代理人的委托书。<br>
+4. 全体合伙人签署的合伙协议。<br>
+5. 全体合伙人签署的对各合伙人缴付出资的确认书。<br>
+6. 主要经营场所证明（合伙企业主要经营场所只能有一个，并且应当在其企业登记机关登记管辖区域内）。<br>
+7. 全体合伙人签署的委托执行事务合伙人的委托书；执行事务合伙人是法人或其他组织的，还应当提交其委派代表的委托书和身份证明复印件。<br>
+8. 以非货币形式出资的，提交全体合伙人签署的协商作价确认书或者经全体合伙人委托的法定评估机构出具的评估作价证明。<br>
+9. 从事法律、行政法规或者国务院决定规定在登记前须经批准的经营项目，须提交有关批准文件。<br>
+10. 法律、行政法规规定设立特殊的普通合伙企业需要提交合伙人的职业资格证明的，提交相应证明。<br>
+11. 国家工商行政管理总局规定提交的其他文件。<br>
+注：<br>
+<div>
+	（1）依照《合伙企业法》、《合伙企业登记管理办法》设立的合伙企业适用本规范。 <br>
+	（2）申请人是指全体合伙人指定的代表或者共同委托的代理人。<br>
+</div>
+
+
+						 </div>
+					</ul>
+				</li>
+				<!-- 结束工商7-->
+				<!-- 工商8-->
+				<li>
+					<div class="link">八、合伙企业分支机构设立登记提交材料规范<i class="fa fa-chevron-down"></i></div>
+					<ul class="submenu">
+						 <div>
+1.《个人独资（合伙）企业分支机构登记申请书》。[<a href="http://www.gzegn.gov.cn/servlet/downloadFileServlet?fileNo=52000020170822102835000381">范本下载</a>][<a href="http://www.gzegn.gov.cn/servlet/downloadFileServlet?fileNo=52000020170822102854000382">空表下载</a>]<br>
+2. 全体合伙人签署的设立分支机构的决定书。<br>
+3. 执行事务合伙人（含委派代表）指定的代表或者委托的代理人的委托书。<br>
+4. 合伙企业营业执照复印件或者营业执照副本。<br>
+5. 全体合伙人委派执行分支机构事务负责人的委托书和其身份证明。<br>
+6. 经营场所证明。<br>
+7．国务院工商行政管理部门规定提交的其他文件。<br>
+8.	法律、行政法规规定需报经有关部门审批的业务的有关批准文件。<br>
+注：<br>
+<div>
+	（1）依照《合伙企业法》、《合伙企业登记管理办法》设立的合伙企业分支机构适用本规范。<br>
+	（2）申请人是指执行事务合伙人（含委派代表）指定的代表或者委托的代理人。<br>
+</div>
+
+
+						 </div>
+					</ul>
+				</li>
+				<!-- 结束工商8-->
+				<!-- 工商9-->
+				<li>
+					<div class="link">九、个人独资企业设立登记提交材料规范<i class="fa fa-chevron-down"></i></div>
+					<ul class="submenu">
+						 <div>
+1. 投资人签署的《个人独资企业登记（备案）申请书》。[<a href="http://www.gzegn.gov.cn/servlet/downloadFileServlet?fileNo=52000020170825154454004005">范本下载</a>][<a href="http://www.gzegn.gov.cn/servlet/downloadFileServlet?fileNo=52000020170825154509004009">空表下载</a>]<br>
+2. 投资人身份证明。<br>
+3. 投资人委托代理人的，应提交投资人的委托书和代理人的身份证明或资格证明。<br>
+4. 企业住所证明。<br>
+5. 法律、行政法规规定必须报经有关部门审批的业务的有关批准文件。<br>
+6. 国家工商行政管理总局规定提交的其他文件。<br>
+注：<br>
+<div>
+	（1）依照《个人独资企业法》、《个人独资企业登记管理办法》设立的个人独资企业适用本规范。<br>
+	（2）申请人是指向登记机关提出设立登记申请的人。<br>
+
+</div>
+
+						 </div>
+					</ul>
+				</li>
+				<!-- 结束工商9-->
+				<!-- 工商10-->
+				<li>
+					<div class="link">十、个人独资企业分支机构设立登记提交材料规范<i class="fa fa-chevron-down"></i></div>
+					<ul class="submenu">
+						 <div>
+1. 投资人签署的《个人独资（合伙）企业分支机构登记申请书》。[<a href="http://www.gzegn.gov.cn/servlet/downloadFileServlet?fileNo=52000020170822102835000381">范本下载</a>][<a href="http://www.gzegn.gov.cn/servlet/downloadFileServlet?fileNo=52000020170822102854000382">空表下载</a>]<br>
+2. 投资人委托代理人的，应提交投资人的委托书和代理人的身份证明或资格证明。<br>
+3. 经营场所使用证明。<br>
+4. 投资人委派分支机构负责人的委托书。<br>
+5. 分支机构负责人的身份证明。<br>
+6. 个人独资企业营业执照复印件。<br>
+7. 国务院工商行政管理部门规定提交的其他文件。<br>
+8. 法律、行政法规规定需报经有关部门审批的业务的有关批准文件。<br>
+注：<br>
+ <div>
+ 	（1）依照《个人独资企业法》、《个人独资企业登记管理办法》设立的个人独资企业适用本规范。<br>
+	（2）申请人是指向登记机关提出设立登记申请的人。<br>
+ </div>
+
+						 </div>
+					</ul>
+				</li>
+				<!-- 结束工商10-->
+				
+			</ul>
+		</div>
+	</div>
+		<br>
+		<!--结束工商 -->
+		
+		<div class="row">
+			<div class="div_center main_intro"><img src="images/tax_logo.gif" alt=""></div>
+			<div class="main_intro">第二步：现场录入信息</div>
+		</div>
+		
+		<!--开始地税 -->
+		<div class="row">
+		<div class="col">
+			<ul id="accordion2" class="accordion">
+				<li class="subTitle">税务事项清单</li>
+				<br>
+				<!-- 地税1-->
+				<li>
+					<div class="link">十一、登记信息确认<i class="fa fa-chevron-down"></i></div>
+					<ul class="submenu">
+						<div>
+						（1）法人，财务负责人，办税人员本人持身份证原件到场进行实名采集。<br>
+						（2）《纳税人办税委托授权信息采集表》一式一份。<br>
+						（3）《贵州省国家税务局“三证合一”信息补采单》一式一份。<br>
+						注： <br>
+							<div class="panel">
+							如果企业为分支企业，请提供总机构营业执照副本复印件一份，总机构电话，总机构地址所在地邮政编码。填写的纸质资料盖上公章。如果您的财务负责人，办税人员属于涉税专业服务机构人员，还需提供涉税专业服务机构人员的专业资格证书复印件一份，涉税专业服务机构登记证件复印件一份。	
+							</div>
+						</div>
+
+
+					</ul>
+				</li>
+				<!-- 结束地税1-->
+
+				<!-- 地税2-->
+				<li>
+					<div class="link">十二、网上办税服务厅（电子税务局）开户<i class="fa fa-chevron-down"></i></div>
+					<ul class="submenu">
+						<div>
+						（1）提供营业执照原件或副本<br>
+						
+						</div>
+					</ul>
+				</li>
+				<!-- 结束地税2-->
+				<!-- 地税3-->
+				<li>
+					<div class="link">十三、税种鉴定<i class="fa fa-chevron-down"></i></div>
+					<ul class="submenu">
+						<div>
+
+						（1）多证合一后的营业执照正副本原件。<br>
+						
+						</div>
+					</ul>
+				</li>
+				<!-- 结束地税3-->
+				<!-- 地税4-->
+				<li>
+					<div class="link">十四、财务会计制度及核算软件备案<i class="fa fa-chevron-down"></i></div>
+					<ul class="submenu">
+						<div>
+						
+						财务会计制度备案报送资料如下表：<br>
+						<div  class="panel">
+							（1）《财务会计制度及核算软件备案报告书》<br>
+							（2）财务会计核算软件、使用说明书原件<br>
+							（3）财务会计核算软件、使用说明书复印件<br>
+							（4）纳税人财务、会计制度或纳税人财务、会计核算办法<br>
+							 上述资料报送条件为：<br>
+						会计电算化系统的会计核算软件、使用说明书的报送条件为使用计算机记账的。
+
+						</div>
+						</div>
+					</ul>
+				</li>
+				<!-- 结束地税4-->
+				<!-- 地税5-->
+				<li>
+					<div class="link">十五、纳税人存款账户账号报告<i class="fa fa-chevron-down"></i></div>
+					<ul class="submenu">
+						<div>
+						
+							存款账户账号报告报送资料如下表：<br>
+							<div class="panel">
+								（1）《纳税人存款账户账号报告表》<br>
+								（2）银行开户许可证或账户、账号开立证明复印件<br>
+
+							</div>
+						</div>
+					</ul>
+				</li>
+				<!-- 结束地税5-->
+				<!-- 地税8-->
+				<li>
+					<div class="link">十六、实名办税<i class="fa fa-chevron-down"></i></div>
+					<ul class="submenu">
+					
+						<div class="panel">
+						（1）《纳税人办税授权委托书》<br>
+						（2）办税人员有效身份证件原件<br>
+						（3）《专业资格证书》复印件<br>
+						（4）涉税专业服务机构登记证件复印件<br>
+						
+						</div>
+					</ul>
+				</li>
+				<!-- 结束地税8-->
+				<!-- 地税9-->
+				<li>
+					<div class="link">十七、三方协议签订<i class="fa fa-chevron-down"></i></div>
+					<ul class="submenu">
+					
+						<div class="panel">
+						（1）多证合一后的营业执照正副本原件。<br>
+						（2）银行开户许可证复印件。<br>
+						</div>
+
+					</ul>
+				</li>
+				<!-- 结束地税9-->
+				<!-- 地税10-->
+				<li>
+					<div class="link">十八、发票票种核定申请<i class="fa fa-chevron-down"></i></div>
+					<ul class="submenu">
+							<div class="panel">
+							（1）发票专用章。<br>
+							（2）领票人身份证复印件一式一份。<br>
+							（3）填写《纳税人领用发票票种核定表》一式一份。<br>
+							
+							</div>
+
+					</ul>
+				</li>
+				<!-- 结束地税10-->
+				<!-- 地税11-->
+				<li>
+					<div class="link">十九、申请增值税专用发票最高开票限额<i class="fa fa-chevron-down"></i></div>
+					<ul class="submenu">
+						
+						<div class="panel">
+						（1）发票专用章。<br>
+						（2）领票人身份证复印件一式两份。<br>
+						（3）《纳税人领用发票票种核定表》一式一份。<br>
+						（4）《增值税专用发票最高开票限额申请单》一式三份。<br>
+						（5）《税务行政许可申请表》一式三份。<br>
+
+						</div>
+					</ul>
+				</li>
+				<!-- 结束地税11-->
+				<!-- 地税12-->
+				<li>
+					<div class="link">二十、一般纳税人认定登记申请<i class="fa fa-chevron-down"></i></div>
+					<ul class="submenu">
+						<div>
+						（1）《增值税一般纳税人登记表》一式两份。<br> 
+						</div>
+					</ul>
+				</li>
+				<!-- 结束地税12-->
+				<!-- 地税11-->
+				<li>
+					<div class="link">二十一、一般纳税人简易办法征收认定登记<i class="fa fa-chevron-down"></i></div>
+					<ul class="submenu">
+
+							<div class="panel">
+								（1）《增值税一般纳税人选择简易办法征收备案表》一式两份。<br>
+								（2）税务局要求的其他证明材料复印件一式一份<br>
+
+							</div>
+
+					</ul>
+				</li>
+				<!-- 结束地税11-->
+				
+			    <!-- 地税12-->
+				<li>
+					<div class="link">二十二、纳税人减免税备案登记<i class="fa fa-chevron-down"></i></div>
+					<ul class="submenu">
+							<div class="panel">
+								无<br>
+							</div>
+					</ul>
+				</li>
+				<!-- 结束地税12-->
+				
+				<!-- 开始银行-->
+				<li class="subTitle">银行（自愿选择服务）</li>
+				<li>
+					<div class="link">二十二、纳税人减免税备案登记<i class="fa fa-chevron-down"></i></div>
+				</li>
+				<!-- 结束银行-->
+				<!-- 开始邮政-->
+				<li class="subTitle">邮政专递（自愿选择服务）</li>
+				<li>
+					<div class="link">二十三、开通企业账户<i class="fa fa-chevron-down"></i></div>
+
+				</li>
+				
+				<!-- 结束邮政-->
+				
+				
+			</ul>
+		</div>
+	</div>
+		<br><br><br><br><br><br>
+	
+		<!--结束地税 -->
+		
+		<div class="row">
+			<div class="col">
+				<br><br><br>
+				<p class="main_intro nobottom">
+					合署办公“套餐式”服务<br>工作流程图
+				</p>
+			</div>
+			<div class="col">
+				<img src="images/flow.gif" alt="">
+				<br><br><br><br><br><br><br>
+			</div>
+			
+		</div>
+						
+		<!--div class="row">
+			<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+				<div class="div_center main_intro">
+					<a href="taxItem.html"><img src="images/tax_logo.gif" alt=""></a>第三步：现场录入信息
+					<br><br>
+					注：第二、三步同时办理
+					<br><br><br><br>
+				</div>
+				
+			</div>
+			
+		</div-->
+
+	</main>
+	<!--footer class="div_center">
+		<div class="row">
+			<div class="col">
+				<p class="footer-credit">版权所有&#64; 贵阳市经开区地方税务局</p>
+			</div>
+		</div>
+	</footer-->
+	
+	<script src="js/jquery.js"></script>
+    <script src="js/index.js"></script>
+  
+	<section class="footer-credit">
+		<div class="row">
+			<div class="col">
+				<p class="footer-text">版权所有&#64; 贵阳市经开区地方税务局 2018</p>
+			</div>
+		</div>
+	</section>
+</body>
+</html>

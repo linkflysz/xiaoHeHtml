@@ -1,0 +1,301 @@
+@charset "UTF-8";
+/* CSS Document */
+
+html{
+	height: 100%;
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+	font-family: Gotham, Helvetica Neue, Helvetica, Arial," sans-serif";
+}
+
+header {
+	padding: 32px;
+}
+.head-detail
+{
+	padding: 32px;
+	/*position: fixed;*/
+}
+
+img {
+	width: 100%;
+	max-width: 100%;
+	padding: 10px;
+	height: auto;
+	vertical-align: middle;
+	margin-top: 15px;
+	margin-bottom: 10px;
+	border:2px solid #F70E12;
+}
+
+.img_tax{
+	width: 80%;
+	
+}
+
+
+
+body {
+	height: 100%; 
+	margin-left: auto;
+	margin-right: auto;
+	background: #e6f4f8;
+}
+
+.style-logo {
+	margin: auto;
+	display: block;
+	width: 50%;
+	border: none;
+}
+
+.style-logo-detail {
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	border: none;
+}
+
+.style-nav ul {
+	list-style-type: none;
+}
+
+.style-nav ul li a {
+	text-decoration: none;
+	color: #2F322A;
+	text-align: center;
+	display: block;
+	text-transform: uppercase;
+	padding: 8px;
+}
+
+.hero {
+	background-image: url(images/hero.jpg);
+	background-size: cover;
+	padding: 20px 20px 50px 20px;
+	color: #FFFFFF;
+	text-align: center;
+}
+
+h1 {
+	font-size: 67px;
+	text-transform: uppercase;
+	font-weight: 200;
+	margin-bottom: 60px;
+}
+
+h2 {
+	font-size: 40px;
+	text-transform: uppercase;
+	font-weight: 200;
+	margin-bottom: 23px;
+}
+
+h3 {
+	font-size: 26px;
+	text-transform: uppercase;
+	font-weight: 200;
+	margin-bottom: 120px;
+}
+
+h4 {
+	font-size: 26px;
+	font-weight: 200;
+	margin-bottom: 35px;
+}
+
+p {
+	font-size: 26px;
+	font-weight: 400;
+	margin-bottom: 35px;
+}
+
+.nobottom{
+	margin-bottom: 0px;
+}
+
+.button {
+	border: 2px #FFFFFF solid;
+	padding: 8px 30px;
+	border-radius: 30px;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+
+.info-box-tan {
+	background-color: #b9a88e;
+	color: #FFFFFF;
+	padding: 30px 20px 60px;
+	text-align: center;
+}
+
+.info-box-dark {
+	background-color: #2D2D35;
+	color: #FFFFFF;
+	padding: 30px 20px 60px;
+	text-align: center;
+}
+
+.col {
+	width: 100%;
+}
+
+.row:before, .row:after {
+	content: "";
+	display: table;
+}
+
+.row:after {
+	clear: both;
+}
+
+.main_intro{
+	font-family: 黑体;
+	font-size: 46px;
+	color: red;
+	text-align: center;
+	
+}
+
+.main_intro_selected{
+	font-family: 黑体;
+	font-size: 46px;
+	color: #F38082;
+	text-align: center;
+}
+
+.menu{
+	display:block;
+	border: 1px solid #F41216;
+}
+
+.menu_select{
+	display:block;
+	border: 1px solid #FBB5B7;
+}
+
+.swiper-container-v{
+	width: 95%;
+	height: 1000px;
+}
+
+.swiper-pagination-bullet {
+      width: 30px;
+      height: 30px;
+      text-align: center;
+      line-height: 30px;
+      font-size: 12px;
+      color:#000;
+      opacity: 1;
+      background: rgba(0,0,0,0.2);
+}
+.swiper-pagination-bullet-active {
+      color:#fff;
+      background: #007aff;
+}
+
+/*
+footer {
+	background-color: #dbecf1;
+	position: fixed;
+	bottom: 0px;
+	width: 100%;
+}
+*/
+.footer-credit{
+	/*float:right;*/
+	width: 100%;
+	font-size: 40px;
+	color: darkblue;
+	text-align: center;
+	position: fixed;
+	padding: 30px 20px 0px 20px;
+	bottom: 0px;
+	left: 0px;
+	background-color: #dbecf1;
+}
+
+.footer-text {
+	font-size: 33px;
+	margin-bottom: 20px;
+}
+
+.tax_detail_table{
+	border: 1px solid #060BFB;
+	width: 100%;
+}
+
+.tax_detail_table thead th{
+	border: 1px solid #060BFB;
+	text-align: center;
+	font-size: 35px;
+}
+.tax_detail_table tbody td{
+	border: 1px solid #060BFB;
+	text-align: center;
+	font-size: 35px;
+}
+
+.div_center{
+	margin: auto;
+	vertical-align: middle;
+	text-align: center;
+	width: 50%;
+}
+/*Tablet View*/
+
+@media (min-width: 768px){
+	
+	body {
+		max-width: 898px;
+	}
+	
+	.style-nav ul li {
+		display: inline-block;
+	}
+	
+	.style-nav ul {
+		text-align: center;
+	}
+	
+	h1 {
+		font-size: 50px;
+		margin-bottom: 90px;
+	}
+	
+	h2 {
+		margin-bottom: 16px;
+	}
+	
+	.col-md-one-half {
+		width: 50%;
+	}
+	
+	.col {
+		float: left;
+		padding: 0px 7px 14px;
+	}
+}
+
+
+/*Desktop View*/
+
+@media (min-width: 1024px){
+	
+	body {
+		max-width: 1200px;
+	}
+	
+	.style-logo {
+		float: none;
+	}
+	
+	.style-nav {
+		float: right;
+	}
+	
+	.col-lg-one-fourth {
+		width: 25%;
+	}
+}
